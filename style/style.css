@@ -1,0 +1,25 @@
+#text1 {
+    color: red; /* Тут можна встановити будь-який бажаний колір */
+}
+
+.text2 {
+    color: blue; /* Тут можна встановити будь-який бажаний колір */
+}
+
+.text3{
+    color: orange;
+}
+
+a[target] {
+    color: blueviolet;
+}
+h3{
+    color: brown;
+}
+
+
+::selection{
+    color: violet;
+    background-color: black;
+  }
+  
